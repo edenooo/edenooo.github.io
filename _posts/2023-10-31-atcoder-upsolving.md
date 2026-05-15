@@ -3,6 +3,7 @@ title: AtCoder Upsolving
 date: 2023-10-31 23:00:00 +09:00
 categories: [ARC]
 tags: [DP]
+math: true
 ---
 
 ## ARC127E. Priority Queue (2678)

@@ -3,6 +3,7 @@ title: Small & Large Lighter Cup
 date: 2023-11-05 00:00:00 +09:00
 categories: [BOJ]
 tags: [FWHT, catalan]
+math: true
 ---
 
 1등 올솔브

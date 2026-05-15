@@ -3,6 +3,7 @@ title: Goricon Open
 date: 2023-11-04 00:00:00 +09:00
 categories: [BOJ]
 tags: [DP, tree DP, exchange argument]
+math: true
 ---
 
 2등, 올솔브
